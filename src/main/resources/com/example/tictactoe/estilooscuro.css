@@ -1,0 +1,59 @@
+.label {
+    -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: blue;
+    -fx-opacity: 0.6;
+}
+.text {
+ -fx-font-size: 11pt;
+    -fx-font-family: "Segoe UI Semibold";
+    -fx-text-fill: blue;
+    -fx-opacity: 0.6;
+}
+#barmenu{
+-fx-background-color: #1d1d1d;
+}
+#tablero{
+ -fx-background-color: #191970;
+    -fx-border-color: #1d1d1d;
+    -fx-border-radius: 5px;
+    -fx-background-radius: 5px;
+}
+#groupmodojuego{
+-fx-background-color: #1d1d1d;
+ -fx-text-fill: #d8d8d8;
+}
+#btnStart{-fx-padding: 5 22 5 22;
+              -fx-border-color: #e2e2e2;
+              -fx-border-width: 2;
+              -fx-background-radius: 0;
+              -fx-background-color: #1d1d1d;
+              -fx-font-family: "Segoe UI", Helvetica, Arial, sans-serif;
+              -fx-font-size: 11pt;
+              -fx-text-fill: #d8d8d8;
+}
+#groupmodojuego{
+-fx-background-color: #1d1d1d;
+-fx-text-fill: #FAF0E6;
+}
+#principalPane{
+    -fx-background-image: url("dark.jpeg");
+}
+#pimpampum{
+ -fx-text-fill: #d8d8d8;
+}
+#pepe{
+ -fx-text-fill: #d8d8d8;
+}
+#playerTurnText{
+ -fx-text-fill: #d8d8d8;
+}
+#plavscomp{
+ -fx-text-fill: #d8d8d8;
+}
+#plavspla{
+ -fx-text-fill: #d8d8d8;
+}
+#compvscomp{
+ -fx-text-fill: #d8d8d8;
+}
